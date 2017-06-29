@@ -27,6 +27,8 @@ public class Question {
     private String explains;
     private String url;
 
+    private String userAnswer;
+
     public void setId(int id) {
         this.id = id;
     }
