@@ -35,7 +35,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="这个标志是何含义？"
+            tool:text="这个标志是何含义？"
             android:textColor="#000"
             android:textSize="18sp"/>
     </LinearLayout>
@@ -58,7 +58,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="车道数变少"
+            tool:text="车道数变少"
             android:textColor="#000"
             android:textSize="18sp"/>
     </LinearLayout>
@@ -76,7 +76,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="合流处"
+            tool:text="合流处"
             android:textColor="#000"
             android:textSize="18sp"/>
     </LinearLayout>
@@ -94,7 +94,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="应急车道"
+            tool:text="应急车道"
             android:textColor="#000"
             android:textSize="18sp"/>
     </LinearLayout>
@@ -112,7 +112,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="向左变道"
+            tool:text="向左变道"
             android:textColor="#000"
             android:textSize="18sp"/>
     </LinearLayout>
